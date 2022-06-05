@@ -5,8 +5,8 @@ import GitExpertApp from './GiftExpertApp';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+  
     <GitExpertApp />
-  </React.StrictMode>
+  
 );
 
