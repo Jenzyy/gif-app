@@ -2,9 +2,9 @@ import { useState } from "react";
 import AddCategory from "./components/AddCategory";
 import GifGrid from "./components/giffGrid";
 const GitExpertApp = () => {
-    const [categories, setCategories] = useState(['one Punch']);/* 
-    const handleAdd = (e) => {
-        setCategories([...categories, 'Uno mas'])
+    const [categories, setCategories] = useState(['gato']);
+/*     const handleAdd = (e) => {
+        setCategories(e.target.value)
     } */
     return (
         <>
