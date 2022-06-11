@@ -23,8 +23,9 @@ App minimalista que permite buscar giffs de cualquier categoria y compartirlo en
 * Agregar categorias.
 
 ## 🛠️ **Construido con**
-* Framework  
-    - ReactJs
+* Framework   
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    
 
 
 

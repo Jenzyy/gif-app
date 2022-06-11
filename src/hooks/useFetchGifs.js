@@ -7,6 +7,7 @@ export const useFetchGifs = ( category ) => {
     })
 
     useEffect(() => {
+        console.log("peticion...")
         getGifs(category)
             .then(img => {
                 setState({

@@ -8,9 +8,9 @@ const GitExpertApp = () => {
     } */
     return (
         <>
-            <h2>
-                hola mundo
-            </h2>
+            <h1 className="title">
+                giff App 
+            </h1>
             <AddCategory
                 categories={categories}
                 setCategories={setCategories}
